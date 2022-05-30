@@ -19,6 +19,9 @@ The secondary goal of this project is to create a terrible game.
 Requires [Foreman](https://github.com/Roblox/foreman) 1.0.0 or newer.
 
 ```bash
+# Install dependencies
+git submodule update --init --recursive
+
 # Install required tools
 foreman install
 
